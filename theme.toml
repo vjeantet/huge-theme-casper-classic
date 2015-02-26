@@ -1,0 +1,16 @@
+name = "Casper classic"
+license = "MIT"
+licenselink = "https://github.com/vjeantet/hugo-theme-casper-classic/blob/master/LICENSE.md"
+description = "Casper theme from Ghost Foundation v0.9.4"
+homepage = "http://vjeantet.fr/"
+tags = ["blog"]
+features = ["disqus", "google analytics"]
+
+[author]
+  name = "Valere JEANTET"
+  homepage = "http://vjeantet.fr"
+
+[original]
+  name = "Casper classic"
+  homepage = "https://github.com/TryGhost/Casper"
+  repo = "https://github.com/TryGhost/Casper"
